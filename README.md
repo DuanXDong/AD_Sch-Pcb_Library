@@ -1,4 +1,4 @@
-# Sch_and_PCB_Library
+﻿# Sch_and_PCB_Library
 My Altium Designer SCH&PCB Library.   
 本文件为Altium Designer原理图和封装库。
   
@@ -23,3 +23,8 @@ V1.03
 V1.04   
   1、优化器件和封装。    
   2、添加按键、晶振等器件和封装。
+
+V1.05
+  1、添加按键3D封装。
+  2、添加SH1.0 JST接插件。
+  3、优化接插件原理图库。

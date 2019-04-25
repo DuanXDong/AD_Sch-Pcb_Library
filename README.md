@@ -1,4 +1,4 @@
-﻿# Sch_and_PCB_Library
+# Sch_and_PCB_Library
 ## My Altium Designer SCH&PCB Library. 
 ## 本文件为Altium Designer原理图和封装库。
 ### V1.0
@@ -27,3 +27,5 @@
   - 1、优化SOT-23封装。
 ### V1.053
   - 1、优化封装名称、利于检索。
+### V1.054
+  - 1、解决原理图库中封装名称不匹配的问题。

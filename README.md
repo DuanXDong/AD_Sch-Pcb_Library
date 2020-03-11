@@ -1,6 +1,8 @@
 ﻿# Sch_and_PCB_Library
 ## My Altium Designer SCH&PCB Library. 
 ## 本文件为Altium Designer原理图和封装库。
+### V1.09
+  - 1、添加ESP-12S型号的ESP8266 WIFI模块原理图和封装库。 
 ### V1.08
   - 1、添加S9012PNP型三极管原理图。
 ### V1.07

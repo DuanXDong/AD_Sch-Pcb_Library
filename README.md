@@ -1,6 +1,8 @@
 ﻿# Sch_and_PCB_Library
 ## My Altium Designer SCH&PCB Library. 
 ## 本文件为Altium Designer原理图和封装库。
+### V1.08
+  - 1、添加S9012PNP型三极管原理图。
 ### V1.07
   - 1、优化晶振原理图库，区分不同引脚的封装。
 ### V1.06

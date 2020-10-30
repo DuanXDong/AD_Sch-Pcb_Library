@@ -1,6 +1,10 @@
 # Sch_and_PCB_Library
 ## My Altium Designer SCH&PCB Library. 
 ## 本文件为Altium Designer原理图和封装库。
+### V1.11
+  - 1、添加ADAS1000的原理图和封装库
+  - 2、添加ADSP-BF512的原理图和封装库
+  - 3、添加MT48LC8M16A2P的原理图和封装库
 ### V1.10
   - 1、添加AMS1117-3.3的原理图和封装库。
 ### V1.09

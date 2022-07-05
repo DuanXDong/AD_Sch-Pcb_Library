@@ -1,6 +1,8 @@
 # Sch_and_PCB_Library
 ## My Altium Designer SCH&PCB Library. 
 ## 本文件为Altium Designer原理图和封装库。
+### V3.1
+  - 1、添加自恢复保险丝的原理图、封装库和3D封装。
 ### V1.11
   - 1、添加ADAS1000的原理图和封装库
   - 2、添加ADSP-BF512的原理图和封装库
